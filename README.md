@@ -29,8 +29,8 @@ Welcome to Kathir's Interactive Counter App! This project is a simple yet versat
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/interactive-counter-app.git
-    cd interactive-counter-app
+    git clone https://github.com/Kathir-Moorthy/Interactive-Number-Counter
+    cd Interactive-Number-Counter
     ```
 
 2. **Install dependencies**:
